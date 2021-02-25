@@ -1,0 +1,101 @@
+body {
+  font-size: 14px;
+  background-color: hsl(0, 0%, 81%);
+}
+
+img {
+  border-radius: 50%;
+  margin-right: 20px;
+  float: left;
+}
+
+p {
+  color: hsl(0, 0%, 81%);
+}
+
+.conteiner {
+  background-color: hsl(0, 0%, 81%);
+  position: relative;
+  width: 1200px;
+  height: 600px;
+  margin: 70px 70px 0 70px;
+}
+
+.one {
+  width: 590px;
+  height: 290px;
+  background: url(./images/bg-pattern-quotation.svg) no-repeat;
+  background-position: top;
+  background-color: HSL(263, 55%, 52%);
+  display: inline-block;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.Daniel {
+  line-height: 3px;
+  margin-bottom: 30px;
+}
+
+.two {
+  width: 290px;
+  height: 290px;
+  background-color: hsl(217, 19%, 35%);
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+  border-radius: 10px;
+}
+
+.three {
+  width: 290px;
+  height: 290px;
+  background-color: hsl(0, 0%, 100%);
+  display: inline-block;
+  position: absolute;
+  top: 310px;
+  border-radius: 10px;
+}
+
+.four {
+  width: 590px;
+  height: 290px;
+  background-color: hsl(219, 29%, 14%);
+  display: inline-block;
+  position: absolute;
+  left: 310px;
+  top: 310px;
+  border-radius: 10px;
+}
+
+.five {
+  width: 280px;
+  height: 600px;
+  background-color: hsl(0, 0%, 100%);
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+.one-two-four {
+  color: white;
+}
+
+.three-five {
+  color: hsl(217, 19%, 35%);
+}
+
+.stady {
+  padding: 20px 20px 20px 23px;
+}
+
+.text {
+  margin-right: 35px;
+}
+
+.end {
+  text-align: center;
+  margin-top: 10px;
+}
